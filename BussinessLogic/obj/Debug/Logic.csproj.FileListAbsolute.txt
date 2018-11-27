@@ -1,0 +1,63 @@
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\Logic.dll
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\Logic.pdb
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\Logic.dll
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\Logic.pdb
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\bin\Debug\Logic.dll
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\bin\Debug\Logic.pdb
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\obj\Debug\Logic.dll
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\obj\Debug\Logic.pdb
+C:\Users\Jose P. Vindas\Desktop\TEColones\BussinessLogic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\bin\Debug\Logic.dll
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\bin\Debug\Logic.pdb
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\obj\Debug\Logic.dll
+C:\Users\Jose P. Vindas\Videos\TEColones\BussinessLogic\obj\Debug\Logic.pdb
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\bin\Debug\Logic.dll
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\bin\Debug\Logic.pdb
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\obj\Debug\Logic.dll
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\obj\Debug\Logic.pdb
+C:\Users\kenne\Documents\workspace\C#\final\TEColones\BussinessLogic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\bin\Debug\Logic.dll
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\bin\Debug\Logic.pdb
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\obj\Debug\Logic.dll
+C:\Users\Jose P. Vindas\Downloads\TEColones\BussinessLogic\obj\Debug\Logic.pdb
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\bin\Debug\Logic.dll
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\bin\Debug\Logic.pdb
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\obj\Debug\Logic.dll
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\obj\Debug\Logic.pdb
+C:\Users\kenne\Desktop\Tecolones\BussinessLogic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\bin\Debug\Logic.dll
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\bin\Debug\Logic.pdb
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\obj\Debug\Logic.dll
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\obj\Debug\Logic.pdb
+C:\Users\kenne\Desktop\Proyecto\TEColones\BussinessLogic\obj\Debug\Logic.csprojAssemblyReference.cache

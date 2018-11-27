@@ -1,0 +1,11 @@
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\DataAccess.dll
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\DomainEntities.dll
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\bin\Debug\DomainEntities.pdb
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\kenne\Documents\workspace\C#\web\TEColones\BussinessLogic\obj\Debug\BussinessLogic.pdb
